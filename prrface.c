@@ -111,7 +111,7 @@ void main(int argc, char** argv)
   glutInit(&argc, argv);
   glutInitWindowSize(500,500);
   glutInitWindowPosition(0,0);
-  glutCreateWindow("Bresenham's Line Drawing");
+  glutCreateWindow("----------FACE----------");
   glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
   init();
   glutDisplayFunc(Disp);
